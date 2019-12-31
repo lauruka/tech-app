@@ -49,6 +49,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "https://lauruka.github.io/tech-app/",
               "budgets": [
                 {
                   "type": "initial",

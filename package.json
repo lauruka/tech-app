@@ -8,8 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "dev": "lite-server --baseDir='dist/tech-app'",
-    "build.prod": "ng build --prod"
+    "dev": "lite-server --baseDir='dist/tech-app'"
   },
   "private": true,
   "dependencies": {
